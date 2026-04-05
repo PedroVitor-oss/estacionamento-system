@@ -86,7 +86,7 @@ O sistema possui um menu interativo no console com as seguintes opções:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/PedroVitor-oss/estacionan.git
+git clonehttps://github.com/PedroVitor-oss/estacionamento-system.git
 
 # Acesse a pasta do projeto
 cd seu-repositorio

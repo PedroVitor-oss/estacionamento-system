@@ -22,7 +22,7 @@ Durante o desenvolvimento, foram utilizados os seguintes conceitos:
 * Programação orientada a objetos (POO)
 * Classes e métodos
 * Listas (`List<T>`)
-* Tipos primitivos (`decimal`, `string`)
+* Tipos primitivos (`float`, `string`)
 * Estruturas de controle (`if`, `switch`, `while`)
 * Entrada e saída de dados no console
 
@@ -86,7 +86,7 @@ O sistema possui um menu interativo no console com as seguintes opções:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/PedroVitor-oss/estacionan.git
 
 # Acesse a pasta do projeto
 cd seu-repositorio
